@@ -1,5 +1,5 @@
 # Autobot_Documentation
-<h1>🥤 USSD Atobot App</h1>
+<h1>🔃 USSD Atobot App</h1>
 <h4>Description</h4>
 This is an Android application that automates USSD requests(both normal and advanced USSD) on Android phones. The Application is implemented using Flutter and Dart programming language.
 
